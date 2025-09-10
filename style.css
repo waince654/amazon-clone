@@ -77,3 +77,26 @@
 .cart i {
     font-size: 30px;
 }
+/* 2nd nav bar */
+.sec-bar {
+    height: 39px;
+    color: #ffffff;
+    background-color: #2b464d;
+    display: flex;
+    text-align: center;
+    align-content: center;
+    align-items: center;
+}
+.icon {
+    padding-left: 15px;
+}
+p {
+    margin-left: 15px;
+}
+.border {
+    border: 2px solid white;
+}
+.border:hover {
+    border: 2px solid white;
+}
+
