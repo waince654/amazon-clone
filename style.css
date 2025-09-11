@@ -100,3 +100,53 @@ p {
     border: 2px solid white;
 }
 
+/* start body content */
+.body-img {
+    background-image: url(amazon-pic.jpg);
+    background-size: cover;
+    height: 400px;
+    width: 1225px;
+}
+.main {
+    height: 1738px;
+    max-width: 3070px;
+    background-color: rgb(200, 243, 238);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly
+}
+.b1 {
+    height: 449px;
+    width: 23%;
+    background: white;
+    margin-top: 15px;
+}
+h2 {
+    margin: 8px 0px 0px 15px;
+}
+.game {
+   
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 77%;
+    width: 85%;
+    margin: 15px;
+    margin-top: 4px;
+    padding-right: 18px;
+}
+.gadget {
+    height: 307px;
+    width: 100%;
+    color: #0c3636;
+    margin: 15px;
+}
+.gadget-img {
+    height: 85%;
+    width: 98.40%;
+    margin-left: 15px;
+    margin-top: 4px;
+    background-image: url(picsven.jpg);
+    background-size: cover;
+}
+
