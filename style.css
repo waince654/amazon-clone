@@ -149,4 +149,18 @@ h2 {
     background-image: url(picsven.jpg);
     background-size: cover;
 }
+.gadget {
+    height: 307px;
+    width: 100%;
+    color: #0c3636;
+    margin: 15px;
+}
+.gadget-img {
+    height: 85%;
+    width: 98.40%;
+    margin-left: 15px;
+    margin-top: 4px;
+    background-image: url(picsven.jpg);
+    background-size: cover;
+}
 
