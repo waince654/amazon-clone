@@ -163,4 +163,41 @@ h2 {
     background-image: url(picsven.jpg);
     background-size: cover;
 }
+.sign {
+    height: 138px;
+    width: 100%;
+    border-top: 0.5rem;
+    border-bottom: 0.5rem;
+    display: flex;
+    margin: 25px;
+    align-items: center;
+    justify-content: center;
+    border-top: 0.1rem solid #558a8a;
+    border-bottom: 0.1rem solid #558a8a;
+}
+.sign-in {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 100px;
+    background-color: #a3e02a;
+    height: 30px;
+    width: 50%;
+    border-radius: 50px;
+}
+.sign p {
+    display: flex;
+    justify-content: center;
+    font-size: 13px;
+}
+.back-to {
+    height: 45px;
+    width: 100%;
+    margin-top: 25px;
+    color: #cccccc;
+    background-color: #384141;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 
