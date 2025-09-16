@@ -201,3 +201,31 @@ h2 {
     justify-content: center;
 }
 
+/* footer content */
+.footer {
+    height: 400px;
+    width: 100%;
+    background-color: #183030;
+    display: flex;
+    justify-content: space-evenly;
+}
+.box {
+    line-height: 31px;
+    height: 70%;
+    width: 18%;
+    color: white;
+    margin-top: 25px;
+    padding-left: 87px;
+}
+.box p a {
+    color: #dddddd;
+    text-decoration: none;
+    font-size: 14px;
+}
+.box p a:hover {
+    text-decoration: underline;
+}
+.box h2 {
+    font-size: 16px;
+}
+
