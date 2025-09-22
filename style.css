@@ -228,4 +228,36 @@ h2 {
 .box h2 {
     font-size: 16px;
 }
+.copy-right {
+    height: 80px;
+    width: 100%;
+    background-color: #183030;
+    border-top: 0.1rem solid #558a8a;
+}
+pre {
+    margin-top: 15px;
+    padding: 15px;
+    font-size: 09px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4px;
+}
+pre a {
+    margin: 7px;
+}
+.copy-right a {
+    color: #dddddd;
+    text-decoration: none;
+    font-size: 14px;
+}
+.copy-right a:hover {
+    text-decoration: underline;
+}
+
+.copy-right span{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
